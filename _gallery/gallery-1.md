@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Norway Field Work 2023"
+excerpt: "Field campaign in Northern Norway to find paleo sea-level indicators 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Team: William D'Andrea, Redmon Stein, Kristian Vasskog 
+Location: Skjervøya, Norway
+Objective: Since the last deglaciaition, Norway has been uplifting due to the loss of overlying ice sheet. As land rises, small depressions in the ocean floor are exposes and become terrestrial lakes. We cored these lakes, or isolation basins, to find the transition from marine to terrestrial sediment. By dating this transition and analysing multiple lakes and different elevations, we can recontruct how fast and when land hand has uplifted in Norway. This tells us about both the material properties of the deep Earth and the history of deglaciaion. 
+
+![pic](Norway.png "")
