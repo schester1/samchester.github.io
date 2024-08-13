@@ -2,9 +2,9 @@
 title: "On the Origin of Holocene Sea-Level Transgressions in Formerly Glaciated Regions"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024-08-01-holocene_transgression
 excerpt: 'Sea-level change and solid Earth dynamics during the last deglaciation'
-date: 2009-10-01
+date: 2024-08-01
 venue: 'Submitted to Quaternary Science Review'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.31223/X5GH5T'
