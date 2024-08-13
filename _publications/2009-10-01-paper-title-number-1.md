@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "On the Origin of Holocene Sea-Level Transgressions in Formerly Glaciated Regions"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Sea-level change and solid Earth dynamics during the last deglaciation'
 date: 2009-10-01
-venue: 'Journal 1'
+venue: 'Submitted to Quaternary Science Review'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Over glacial cycles, the growing and shrinking of ice sheets has caused relative sea level (RSL) to differ from global mean sea level (GMSL) due to glacial isostatic adjustment (GIA), which depends on the viscoelastic properties of the solid Earth. During the last termination and through the Holocene, GIA-related isostatic uplift caused RSL to fall in regions formerly covered by ice sheets. Surrounding these uplifting regions is a narrow band of land where postglacial RSL fall was interrupted during the Holocene by a period of sea-level rise (i.e., a transgression) that culminated in a high stand before sea-level fall resumed. Holocene transgressions and high stands have been well documented in many locations including Norway, the Canadian Atlantic coast, the Canadian Pacific coast, Svalbard, the Baltic Sea, and the British Isles. A leading hypothesis poses that transgression occurred when GMSL rise outpaced isostatic rebound. We investigate the origins of these Holocene transgressions using GIA modeling and test the alternative hypothesis that they are predominantly the result of solid earth deformation. Our results highlight a unique pattern of solid earth deformation in which the region of subsidence (peripheral bulge) surrounding the ice sheet migrates first towards and then away from the melted ice mass. We show how this effect, which we term 'reverse migration', is the direct result of the contrast in viscosity between the upper and lower mantle. We compare our GIA model predictions of RSL change to two datasets: 1) RSL data from the last glacial maximum to present and 2) specific constraints on the transgression magnitude in Norway and Eastern Canada. Both datasets better fit RSL predicted by GIA models that include a mantle with a substantial (order of magnitude) increase in viscosity with depth over GIA predictions that don't include a contrast in mantle viscosity. We argue that this is a useful constraint on the local viscosity structure. Further, this suggests that in contrast to the conventional view that Holocene transgressions record GMSL temporarily outpacing isostatic uplift, solid earth deformation and specifically reverse migration played an important role in generating near-field Holocene transgressions.
