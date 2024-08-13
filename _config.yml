@@ -25,10 +25,10 @@ author:
   avatar           : "profile2.png"
   name             : "Sam Chester"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate and somtimes [🪕](https://www.instagram.com/samchestermusic/)"
+  bio              : "PhD Candidate and somtimes [-🪕](https://www.instagram.com/samchestermusic/) [test](https://www.instagram.com/samchestermusic/)"
   location         : "New York, NY"
   employer         : "Columbia University"
-  uri              : # URL
+  uri              : "https://www.instagram.com/samchestermusic/"
   email            : "samuel.chester@ldeo.columbia.edu" 
 
   # Academic websites
