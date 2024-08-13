@@ -8,4 +8,3 @@ Team: William D'Andrea, Redmon Stein, Kristian Vasskog
 Location: Skjervøya, Norway
 Objective: Since the last deglaciaition, Norway has been uplifting due to the loss of overlying ice sheet. As land rises, small depressions in the ocean floor are exposes and become terrestrial lakes. We cored these lakes, or isolation basins, to find the transition from marine to terrestrial sediment. By dating this transition and analysing multiple lakes and different elevations, we can recontruct how fast and when land hand has uplifted in Norway. This tells us about both the material properties of the deep Earth and the history of deglaciaion. 
 
-![pic](Norway.png "")
