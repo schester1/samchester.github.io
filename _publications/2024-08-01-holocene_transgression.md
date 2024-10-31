@@ -5,9 +5,9 @@ category: manuscripts
 permalink: /publication/2024-08-01-holocene_transgression
 excerpt: 'Sea-level change and solid Earth dynamics during the last deglaciation'
 date: 2024-08-01
-venue: 'Submitted to Quaternary Science Review'
+venue: 'In Press, Quaternary Science Review'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://doi.org/10.31223/X5GH5T'
+paperurl: '[https://doi.org/10.31223/X5GH5T](https://doi.org/10.1016/j.quascirev.2024.108986)'
 citation: 'Chester, S.J., Austermann, J., D’Andrea, W.J., Lloyd, A.J., Creel, R.C., 2024. On the Origin of Holocene Sea-Level Transgressions in Formerly Glaciated Regions.'
 ---
 
